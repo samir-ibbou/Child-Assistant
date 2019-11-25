@@ -1,4 +1,4 @@
-# Child-Assistant
+# Child-Assistant (sur Raspberry Pi3+)
 C'est un Assistant pour enfants basé sur Google Assistant et qui consiste à :
 - Chanter des chansons (sur Youtube)
 - Raconter des histoires (toujours sur Youtube)
